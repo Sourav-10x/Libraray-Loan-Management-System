@@ -56,10 +56,6 @@ LibraryLoanSystem/
     │   └── PerformanceEvaluator.java
     │        → Benchmark suites, timing utilities, CSV reporting
     │
-    ├── model/
-    │   ├── Member.java
-    │   ├── Book.java
-    │   └── Loan.java
     │
     └── ui/
         └── MainApp.java
