@@ -39,7 +39,7 @@ The project was designed to:
 
 ```text
 LibraryLoanSystem/
-└── src/main/java/com/library/
+└── src/sourav/A1_diij/library/
     ├── connection/
     │   └── ConnectionManager.java
     │        → DB initialization, schema creation, indexes, seed data
