@@ -1,0 +1,26 @@
+# Compiled files
+*.class
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Build folders
+bin/
+out/
+target/
+
+# Derby database files
+seg0/
+log/
+*.lck
+*.dat
+
+# IDE folders
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat May 16 00:48:28 IST 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019e-2d13-6c82-000006f12560 
+on database directory C:\Users\dell\Downloads\LibraryLoanSystem_CSE3488\SouravMahanty_A1_2341013011\librarydb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2133c8f8 
+Loaded from file:/C:/Users/dell/Downloads/db-derby-10.16.1.1-bin/db-derby-10.16.1.1-bin/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.9+9
+user.dir=C:\Users\dell\Downloads\LibraryLoanSystem_CSE3488\SouravMahanty_A1_2341013011
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
