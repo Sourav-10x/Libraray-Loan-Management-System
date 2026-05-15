@@ -38,8 +38,8 @@ The project was designed to:
 # Project Structure
 
 ```text
-LibraryLoanSystem/
-└── src/sourav/A1_diij/library/
+LibraryLoanSystem_CSE3488/
+└── SouravMahanty_A1_2341013011/src/main/java/com/library/
     ├── connection/
     │   └── ConnectionManager.java
     │        → DB initialization, schema creation, indexes, seed data
